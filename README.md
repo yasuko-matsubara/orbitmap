@@ -1,4 +1,3 @@
-======================================
 [OrbitMap@KDD'19](https://www.dm.sanken.osaka-u.ac.jp/~yasuko/)
 ======================================
 
@@ -16,6 +15,7 @@ Introduction
 
 This is a python code of OrbitMap. 
 
+https://www.dm.sanken.osaka-u.ac.jp/~yasuko/software.html#orbitmap
 
 
 ------------
