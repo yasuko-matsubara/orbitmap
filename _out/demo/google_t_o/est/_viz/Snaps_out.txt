@@ -1,0 +1,10 @@
+fn: ./_out/tmp/google_t_o/est/_viz/
+(n,d): (260,3)
+(lstep,pstep,wd_level): (13, 3, 1)
+MDB (c): 4 (CC:1)
+MDB (RE/RF/MS): 0.358318/0.358318/0.358318
+errE: 0.175733
+errS: 1.430942
+errF: 0.852485
+errF (half): 0.712093
+time: 0.216690 

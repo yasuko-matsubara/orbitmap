@@ -1,0 +1,10 @@
+fn: ./_out/tmp/google_t_o.23266/scan/
+(n,d): (260,3)
+(lstep,pstep,wd_level): (13, 3, 1)
+MDB (c): 4 (CC:1)
+MDB (RE/RF/MS): 0.358318/0.358318/0.358318
+errE: 0.228582
+errS: 1.503291
+errF: 0.590440
+errF (half): 0.612024
+time: 0.260156 

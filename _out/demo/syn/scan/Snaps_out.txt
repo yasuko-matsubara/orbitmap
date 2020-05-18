@@ -1,0 +1,10 @@
+fn: ./_out/tmp/syn/scan/
+(n,d): (500,2)
+(lstep,pstep,wd_level): (10, 2, 1)
+MDB (c): 4 (CC:1)
+MDB (RE/RF/MS): 0.172800/0.172800/0.172800
+errE: 0.100081
+errS: 1.329237
+errF: 0.124084
+errF (half): 0.136971
+time: 0.127405 

@@ -1,0 +1,15 @@
+digraph G {
+bgcolor="#ffffff00"
+ratio=2.0
+graph [size="4.0,8.0", center=true];node [color=white, style=filled, fontsize=64];edge [fontsize=64];1 [label=" #1 (8) ", shape=circle, width=4.169925, fillcolor=lightgray];
+2 [label=" #2 (8) ", shape=circle, width=4.169925, fillcolor=lightgray];
+3 [label=" #3 (2) ", shape=circle, width=2.584963, fillcolor=lightgray];
+4 [label=" #4 (3) ", shape=circle, width=3.000000, fillcolor=lightgray];
+1 -> 2 [label=" 5 (7) ", color=black, style=solid, penwidth=8.000000];
+1 -> 4 [label=" 1 (1) ", color=black, style=solid, penwidth=2.000000];
+2 -> 1 [label=" 3 (6) ", color=black, style=solid, penwidth=7.000000];
+2 -> 3 [label=" 1 (1) ", color=black, style=solid, penwidth=2.000000];
+3 -> 4 [label=" 1 (2) ", color=black, style=solid, penwidth=3.000000];
+4 -> 2 [label=" 1 (1) ", color=black, style=solid, penwidth=2.000000];
+4 -> 3 [label=" 1 (1) ", color=black, style=solid, penwidth=2.000000];
+}
