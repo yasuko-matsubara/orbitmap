@@ -12,6 +12,7 @@
 
 
 OUTDIR="./_out/tmp/"
+mkdir $OUTDIR
 
 #-------------------#                      
 # input parameter settings
