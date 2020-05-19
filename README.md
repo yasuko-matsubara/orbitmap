@@ -3,7 +3,13 @@
 
 Author:    Yasuko Matsubara 
 
+
+![OrbitMap](https://www.dm.sanken.osaka-u.ac.jp/~yasuko/img/code_orbitmap.png "サンプル")
+
+
+
 Copyright (C) 2019--2020 Yasuko Matsubara & Yasushi Sakurai
+
 OrbitMap is freely available for non-commercial purposes.
 If you intend to use OrbitMap for a commercial purpose,
 please contact us by email at [yasuko@sanken.osaka-u.ac.jp]
